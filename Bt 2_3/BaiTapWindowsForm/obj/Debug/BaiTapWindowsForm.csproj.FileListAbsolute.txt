@@ -1,0 +1,28 @@
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe.config
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.pdb
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.AssemblyReference.cache
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.SuggestedBindingRedirects.cache
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai_1.resources
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmchinh.resources
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.Properties.Resources.resources
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.GenerateResource.cache
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.CoreCompileInputs.cache
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.exe
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.pdb
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai2.resources
+D:\dev\windown desktop\Thực Hành\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai_3.resources
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe.config
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.exe
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\bin\Debug\BaiTapWindowsForm.pdb
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.AssemblyReference.cache
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.SuggestedBindingRedirects.cache
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai2.resources
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai_1.resources
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmBai_3.resources
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.frmchinh.resources
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.Properties.Resources.resources
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.GenerateResource.cache
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.csproj.CoreCompileInputs.cache
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.exe
+D:\dev\windown desktop\ThucHanh\Bt_2\BaiTapWindowsForm\obj\Debug\BaiTapWindowsForm.pdb

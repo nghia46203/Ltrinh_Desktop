@@ -1,0 +1,11 @@
+D:\dev\windown desktop\LAP1\LAP1\bin\Debug\LAP1.exe.config
+D:\dev\windown desktop\LAP1\LAP1\bin\Debug\LAP1.exe
+D:\dev\windown desktop\LAP1\LAP1\bin\Debug\LAP1.pdb
+D:\dev\windown desktop\LAP1\LAP1\obj\Debug\LAP1.csproj.AssemblyReference.cache
+D:\dev\windown desktop\LAP1\LAP1\obj\Debug\LAP1.csproj.SuggestedBindingRedirects.cache
+D:\dev\windown desktop\LAP1\LAP1\obj\Debug\LAP1.Form1.resources
+D:\dev\windown desktop\LAP1\LAP1\obj\Debug\LAP1.Properties.Resources.resources
+D:\dev\windown desktop\LAP1\LAP1\obj\Debug\LAP1.csproj.GenerateResource.cache
+D:\dev\windown desktop\LAP1\LAP1\obj\Debug\LAP1.csproj.CoreCompileInputs.cache
+D:\dev\windown desktop\LAP1\LAP1\obj\Debug\LAP1.exe
+D:\dev\windown desktop\LAP1\LAP1\obj\Debug\LAP1.pdb
